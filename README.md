@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bagiyal
 - 👀 I’m interested in React js Project
-- 🌱 I’m currently learning frontend developer 
+- 🌱 I’m currently learning full Stack Developement
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 bagiyal001@gmail.com
 
